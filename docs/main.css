@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color: darkslategray;
+}
+
+.fontstyle1
+{
+	color: white;
+	text-align: center;
+}
+
+.center
+{
+	align-content: center;
+	text-align: center;
+}
+
+#yasuoImg
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
